@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'roles' => 'Roles',
+    'users' => 'users',
+    'userProfiles' => 'userProfiles',
+    'courses' => 'courses',
+    'courseVideos' => 'courseVideos',
+    'userCourseBookmarks' => 'userCourseBookmarks',
+    'userCheckins' => 'userCheckins',
+    'forumBulletins' => 'forumBulletins',
+    'books' => 'books',
+    'forums' => 'forums',
+    'forumPosts' => 'forumPosts',
+    'forumComments' => 'forumComments',
+    'miscellaneous' => 'miscellaneous',
+    'logs' => 'logs',
+    'advertisements' => 'advertisements',
+    'edit' => 'Edit',
+    'delete' => 'Delete',
+    'view' => 'view',
+    'save' => 'Save',
+    'cancel' => 'Cancel',
+    'Action' => 'Action',
+];

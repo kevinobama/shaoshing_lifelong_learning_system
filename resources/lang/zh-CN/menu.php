@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'roles' => '角色',
+    'users' => '用户',
+    'userProfiles' => '用户个人资料',
+    'courses' => '课程',
+    'courseVideos' => '课程视频',
+    'userCourseBookmarks' => '用户的课程',
+    'userCheckins' => '用户签到',
+    'forumBulletins' => '圈子公告',
+    'books' => '电子书',
+    'forums' => '圈子',
+    'forumPosts' => '帖子',
+    'forumComments' => '回复',
+    'miscellaneous' => '其它',
+    'messages' => '资讯',
+    'logs' => '网站日志',
+    'advertisements' => '广告',
+    'edit' => '编辑',
+    'delete' => '删除',
+    'view' => '查看',
+    'save' => '保存',
+    'cancel' => '取消',
+    'Action' => '操作',
+];
